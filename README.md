@@ -6,8 +6,6 @@ Footer for email sign
 </iframe>
 -->
 
-[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
-
 https://support.robimylogo.pl/880369-Jak-dodać-stopkę-mailowąpodpis-w-Gmailu
 
 
